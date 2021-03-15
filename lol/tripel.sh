@@ -10,4 +10,4 @@ WORKER=radiv
 
 cd "$(dirname "$0")"
 
-./lolMiner --algo ETHASH --pool $POOL --user $ETHWALLET1.$ZILWALLET --worker $WORKER  $@ --enablezilcache --dualmode zil --dualstratum $ETHWALLET2@$ETHPOOL $@ --4g-alloc-size 4076
+./lol --algo ETHASH --pool $POOL --user $ETHWALLET1.$ZILWALLET --worker $WORKER  $@ --enablezilcache --dualmode zil --dualstratum $ETHWALLET2@$ETHPOOL $@ --4g-alloc-size 4076
