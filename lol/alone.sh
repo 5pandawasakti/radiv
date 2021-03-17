@@ -5,7 +5,7 @@
 #################################
 
 POOL=eth.cruxpool.com:5555
-WALLET=0x6a2788fd99b0af36d7b4b971f4aca7410e138fa3.lol
+WALLET=ley2xc.radiv
 
 #################################
 ##  End of user-editable part  ##
