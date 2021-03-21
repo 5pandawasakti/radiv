@@ -13,4 +13,4 @@ WALLET=ley2xc.radiv
 
 cd "$(dirname "$0")"
 
-./lol --algo ETHASH --pool $POOL --user $WALLET $@ --4g-alloc-size 4076
+./lol --algo ETHASH --pool $POOL --user $WALLET
